@@ -1,0 +1,18 @@
+2019-01-21 11:13:53 INFO  c.c.p.PracticalJavaApplication - Starting PracticalJavaApplication on eclipse with PID 11966 (/home/cyborg/java/workspace-spring-tool-suite-4-4.1.0.RELEASE/elasticsearch-udemy/practical-java/target/classes started by root in /home/cyborg/java/workspace-spring-tool-suite-4-4.1.0.RELEASE/elasticsearch-udemy/practical-java)
+2019-01-21 11:13:53 INFO  c.c.p.PracticalJavaApplication - No active profile set, falling back to default profiles: default
+2019-01-21 11:13:58 INFO  c.c.p.PracticalJavaApplication - Started PracticalJavaApplication in 5.328 seconds (JVM running for 6.146)
+2019-01-21 11:13:58 INFO  c.c.p.common.CarElasticDatasource - Start DELETE
+2019-01-21 11:13:58 INFO  c.c.p.common.CarElasticDatasource - DELETE result : {"acknowledged":true}
+2019-01-21 11:14:04 INFO  c.c.p.common.CarElasticDatasource - Car in Elasticsearch : 10000
+2019-01-21 11:17:26 INFO  c.c.p.PracticalJavaApplication - Starting PracticalJavaApplication on eclipse with PID 12433 (/home/cyborg/java/workspace-spring-tool-suite-4-4.1.0.RELEASE/elasticsearch-udemy/practical-java/target/classes started by root in /home/cyborg/java/workspace-spring-tool-suite-4-4.1.0.RELEASE/elasticsearch-udemy/practical-java)
+2019-01-21 11:17:26 INFO  c.c.p.PracticalJavaApplication - No active profile set, falling back to default profiles: default
+2019-01-21 11:17:29 INFO  c.c.p.PracticalJavaApplication - Started PracticalJavaApplication in 3.162 seconds (JVM running for 3.975)
+2019-01-21 11:17:29 INFO  c.c.p.common.CarElasticDatasource - Start DELETE
+2019-01-21 11:17:29 INFO  c.c.p.common.CarElasticDatasource - DELETE result : {"acknowledged":true}
+2019-01-21 11:17:32 INFO  c.c.p.common.CarElasticDatasource - Car in Elasticsearch : 10000
+2019-01-21 15:01:30 INFO  c.c.p.PracticalJavaApplication - Starting PracticalJavaApplication on eclipse with PID 14306 (/home/cyborg/java/workspace-spring-tool-suite-4-4.1.0.RELEASE/elasticsearch-udemy/practical-java/target/classes started by root in /home/cyborg/java/workspace-spring-tool-suite-4-4.1.0.RELEASE/elasticsearch-udemy/practical-java)
+2019-01-21 15:01:30 INFO  c.c.p.PracticalJavaApplication - No active profile set, falling back to default profiles: default
+2019-01-21 15:01:33 INFO  c.c.p.PracticalJavaApplication - Started PracticalJavaApplication in 3.013 seconds (JVM running for 3.686)
+2019-01-21 15:01:33 INFO  c.c.p.common.CarElasticDatasource - Start DELETE
+2019-01-21 15:01:33 INFO  c.c.p.common.CarElasticDatasource - DELETE result : {"acknowledged":true}
+2019-01-21 15:01:36 INFO  c.c.p.common.CarElasticDatasource - Car in Elasticsearch : 10000
